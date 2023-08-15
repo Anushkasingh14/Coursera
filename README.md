@@ -1,2 +1,2 @@
-# Coursera
-This is a Coursera test/assignment repository
+# Gym Website
+Website created using HTML and CSS
